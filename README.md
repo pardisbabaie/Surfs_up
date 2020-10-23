@@ -8,7 +8,8 @@ The purpose of this assignment is to provide information to W.Avy who we are hop
 
 - The minimum temperature in June at 64 is also much higher than the minimum temperature of December at 56 degrees as shown below:
 
-
+<img width="417" alt="Screen Shot 2020-10-22 at 9 12 40 PM" src="https://user-images.githubusercontent.com/69806770/96945350-88156a00-14ab-11eb-90f8-8089b1f26c9c.png">
 
 - The maximum temperature in June at 85 is not much higher than the maximum temperature of December at 83 which shows there is much more fluctuation in the temperature for the month of December as shown below:
 
+<img width="418" alt="Screen Shot 2020-10-22 at 9 13 04 PM" src="https://user-images.githubusercontent.com/69806770/96945377-9794b300-14ab-11eb-9fa3-c11d27c43e36.png">
