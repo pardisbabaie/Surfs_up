@@ -13,3 +13,7 @@ The purpose of this assignment is to provide information to W.Avy who we are hop
 - The maximum temperature in June at 85 is not much higher than the maximum temperature of December at 83 which shows there is much more fluctuation in the temperature for the month of December as shown below:
 
 <img width="418" alt="Screen Shot 2020-10-22 at 9 13 04 PM" src="https://user-images.githubusercontent.com/69806770/96945377-9794b300-14ab-11eb-9fa3-c11d27c43e36.png">
+
+## Summary
+The overall results show that this business would be much more successful in the summer months than in the winter months and it would be more of a seasonal business for this area. In the month of December since there is more fluctuation in the weather, there is a chance some days would allow for more business to the surf shop but overall the summer months would be more active. Also, the additional queries for the amount of precipitation show that the number of days we could see rain in December would be much higher than that of June as shown below.
+
