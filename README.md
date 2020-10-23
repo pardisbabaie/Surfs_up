@@ -17,3 +17,4 @@ The purpose of this assignment is to provide information to W.Avy who we are hop
 ## Summary
 The overall results show that this business would be much more successful in the summer months than in the winter months and it would be more of a seasonal business for this area. In the month of December since there is more fluctuation in the weather, there is a chance some days would allow for more business to the surf shop but overall the summer months would be more active. Also, the additional queries for the amount of precipitation show that the number of days we could see rain in December would be much higher than that of June as shown below.
 
+<img width="324" alt="Screen Shot 2020-10-22 at 9 26 38 PM" src="https://user-images.githubusercontent.com/69806770/96946077-5b625200-14ad-11eb-81d7-47f387083e98.png">
